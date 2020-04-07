@@ -1,11 +1,10 @@
 title: ESPHome-Configs.io
-description: >- # this means to ignore newlines until "baseurl:"
-  A database of configuration files and guides for devices commonly flashed with https://esphome.io firmware.
-url: "https://esphome-configs.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
+  A database of user submitted configurations for a variety of devices which can be flashed to run ESPHome.io firmware.
+url: "https://esphome-configs.io"
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs
 plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
@@ -21,16 +20,16 @@ exclude:
 collections:
   devices:
     output: true
-    permalink: /devices/:path/
+    permalink: /devices/:title/
   device-types:
     output: true
-    permalink: /types/:path/
+    permalink: /types/:title/
   device-standards:
     output: true
-    permalink: /standards/:path/
+    permalink: /standards/:title/
   shared-guides:
     output: true
-    permalink: /guides/:path/
+    permalink: /guides/:title/
 
 defaults:
   -
@@ -53,26 +52,3 @@ defaults:
       path: "_shared-guides"
     values:
       layout: "shared-guide"
-
-# Theme Settings
-
-# Logo
-logo: "/assets/images/just-the-docs.png"
-
-# Enable or disable the site search
-search_enabled: true
-
-# Set the search token separator for hyphenated-word search:
-search_tokenizer_separator: /[\s/]+/
-
-
-# Heading Anchor Links
-heading_anchors: true
-
-# Aux links for the upper right navigation
-aux_links:
-  "ESPHome-Configs.io on GitHub":
-    - "//github.com/jonathanadams/esphome-configs"
-    
-# Footer
-footer_content: "This site is generated with <a href=\"https://jekyllrb.com\">Jekyll</a> and powered by <a href=\"https://netlify.com\">Netlify</a>."
