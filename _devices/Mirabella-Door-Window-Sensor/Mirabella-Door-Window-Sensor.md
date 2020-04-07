@@ -13,7 +13,7 @@ The file [sb1_uart.h](https://github.com/brandond/esphome-tuya_pir/blob/master/s
 
 Credit to [Brandon D](https://github.com/brandond) for the file and esphome config
 
-![Mirabella Genio Door & Window Sensor](/assets/images/Mirabella-Door-Window-Sensor/Mirabella-Door-Window-Sensor.jpg "Mirabella Genio Door & Window Sensor")
+![Mirabella Genio Door & Window Sensor](/Mirabella-Door-Window-Sensor.jpg "Mirabella Genio Door & Window Sensor")
 
 
 

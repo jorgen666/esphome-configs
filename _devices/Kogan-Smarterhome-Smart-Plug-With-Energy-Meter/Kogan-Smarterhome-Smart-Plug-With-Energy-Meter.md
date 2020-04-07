@@ -4,7 +4,7 @@ date-published: 2019-10-18
 type: plug
 standard: au
 ---
-  ![alt text](/assets/images/kogan-smarterhome-smart-plug-energy-meter/kogan-smarterhome-smart-plug-energy-meter.jpg "Product Image")
+  ![alt text](/kogan-smarterhome-smart-plug-energy-meter.jpg "Product Image")
   
 [https://www.kogan.com/au/buy/kogan-smarterhome-smart-plug-energy-meter/](https://www.kogan.com/au/buy/kogan-smarterhome-smart-plug-energy-meter/)
 

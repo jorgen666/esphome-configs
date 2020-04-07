@@ -10,7 +10,7 @@ standard: global
 
 ## Product Images
 
-![alt text](/assets/images/sonoff-pow-r1/inside.jpg "inside")
+![alt text](/inside.jpg "inside")
 
 ## GPIO Pinout
 

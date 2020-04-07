@@ -10,7 +10,7 @@ standard: global
 
 ## Product Images
 
-![alt text](/assets/images/sonoff-dual-r2/inside_pcb_1_4.jpg "PCB v1.4")
+![alt text](/inside_pcb_1_4.jpg "PCB v1.4")
 
 ## GPIO Pinout
 

@@ -10,4 +10,4 @@ bulb, which is part of the [Grid Connect ecosystem](https://grid-connect.com.au/
 
 The E27 model (GLD122HA) is most likely the same, but this has not been verified/tested.
 
-![Brilliant Smart Wi-Fi RGB Garden Light Kit](/assets/images/Arlec-Grid-Connect-Smart-LED-Globe-RGB/Arlec-Grid-Connect-Smart-LED-Globe-RGB.jpg "Arlec Smart LED Globe RGB B22 (GLD120HA)")
+![Brilliant Smart Wi-Fi RGB Garden Light Kit](/Arlec-Grid-Connect-Smart-LED-Globe-RGB.jpg "Arlec Smart LED Globe RGB B22 (GLD120HA)")

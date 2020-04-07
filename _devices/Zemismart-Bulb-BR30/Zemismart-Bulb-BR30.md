@@ -11,7 +11,7 @@ RGBW smart light bulb, BR30 shape, E27 base, 420-480lm, RGB colors + cold white,
 
 ## Product Images
 
-![alt text](/assets/images/zemismart-bulb-br30/inside.jpg "inside")
+![alt text](/inside.jpg "inside")
 
 ## GPIO Pinout
 

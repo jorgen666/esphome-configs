@@ -18,13 +18,13 @@ There is another variant to these switches with LEDs on the buttons. These are c
 ## Product Images
 
 Front of 3 pole switch  
- ![alt text](/assets/images/generic_switch_1,2,3_pole_glass/front.png "Front of 3 pole switch")
+ ![alt text](/front.png "Front of 3 pole switch")
 
 Rear of 3 pole switch  
- ![alt text](/assets/images/generic_switch_1,2,3_pole_glass/rear.jpg "Rear of 3 pole switch")
+ ![alt text](/rear.jpg "Rear of 3 pole switch")
 
 Wiring of switch  
- ![alt text](/assets/images/generic_switch_1,2,3_pole_glass/wiring.jpg "Wiring of switch")
+ ![alt text](/wiring.jpg "Wiring of switch")
 
 
 ## GPIO Pinout (Per top to bottom when installed) 
